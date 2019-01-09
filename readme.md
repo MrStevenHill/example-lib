@@ -1,6 +1,6 @@
 ## Demonstrate SymLink Issue with CRA and SC
 
-Build and link as follows:
+Build and create symlink:
 
 `yarn install`
 
@@ -8,10 +8,8 @@ Build and link as follows:
 
 `yarn link`
 
-Get and build
+Get and build app: https://github.com/MrStevenHill/example-app
 
-https://github.com/MrStevenHill/example-app
-
-create symlink
+Link app to lib:
 
 `yarn link example-lib`

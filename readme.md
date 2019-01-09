@@ -1,4 +1,4 @@
-## Example Component Library using Styled Components to Demonstrate SymLink Issue
+## Demonstrate SymLink Issue with CRA and SC
 
 Build and link as follows:
 

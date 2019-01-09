@@ -7,7 +7,7 @@ const StyledExample = styled.div`
 
 class Example extends React.Component {
   render() {
-    return <StyledExample>Styled Lib Component</StyledExample>;
+    return <StyledExample>Example</StyledExample>;
   }
 }
 
